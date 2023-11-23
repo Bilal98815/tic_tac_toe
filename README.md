@@ -4,7 +4,7 @@ A new Flutter project.
 
 This is a player vs player tic tac toe game on android built in flutter. State management is done through Bloc
 
----->>>> IF YOU LIKE IT PLEASE IT A STAR :) <<<<----
+---->>>> IF YOU LIKE IT PLEASE GIVE IT A STAR :) <<<<----
 
 ## Getting Started
 
